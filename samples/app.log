@@ -1,0 +1,10 @@
+INFO started service on port 5003
+ERROR failed to connect mongodb timeout after 5000ms
+INFO request GET /api/tasks
+ERROR failed to connect mongodb timeout after 5000ms
+CRITICAL Exception in worker: ValueError invalid status
+ERROR failed to connect mongodb timeout after 3000ms
+INFO request POST /api/tasks
+CRITICAL Exception in worker: ValueError invalid status
+WARNING slow query 1200ms
+ERROR permission denied for user guest
